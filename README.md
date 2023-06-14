@@ -37,19 +37,5 @@ You can customize the login page according to your preferences. Here are some su
 
 If you encounter any issues or have suggestions for improving this login page, feel free to contribute. You can open an issue or submit a pull request on the project's repository.
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use it according to the terms of the license.
-
-## Credits
-
-The login page was developed by [Your Name] and inspired by [reference or tutorial used]. Special thanks to [contributor's name] for their valuable contributions.
-
-## Contact
-
-If you have any questions or need to get in touch, you can reach me at:
-
-- Email: [your email address]
-- Twitter: [@your_username]
-- GitHub: [your username]
+##
 ![2023-06-14 (2)](https://github.com/ByAlyck/Login/assets/113322342/c89cd76f-144f-4a68-8638-562450efb4ac)
