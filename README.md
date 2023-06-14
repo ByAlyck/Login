@@ -38,6 +38,6 @@ You can customize the login page according to your preferences. Here are some su
 If you encounter any issues or have suggestions for improving this login page, feel free to contribute. You can open an issue or submit a pull request on the project's repository.
 
 ##
-[🅜🅞🅡🅔](https://byalyck.github.io/Login/)
+[MORE](https://byalyck.github.io/Login/)
 
 ![2023-06-14 (2)](https://github.com/ByAlyck/Login/assets/113322342/c89cd76f-144f-4a68-8638-562450efb4ac)
