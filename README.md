@@ -9,7 +9,7 @@ The login page has the following features:
 - Input fields for username and password.
 - Login button to submit the entered data.
 - Option to remember the password.
-- Password recovery through the "Forgot Password?" link.
+- Password recovery through the "Forgot Password?" 
 
 ## Prerequisites
 
